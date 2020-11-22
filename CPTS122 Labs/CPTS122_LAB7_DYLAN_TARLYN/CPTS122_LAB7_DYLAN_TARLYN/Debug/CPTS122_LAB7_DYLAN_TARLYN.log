@@ -1,0 +1,3 @@
+﻿  Die.cpp
+C:\Users\dtarl\OneDrive\Desktop\CPTS 122\CPTS122_LAB7_DYLAN_TARLYN\CPTS122_LAB7_DYLAN_TARLYN\Die.cpp(21,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CPTS122_LAB7_DYLAN_TARLYN.vcxproj -> C:\Users\dtarl\OneDrive\Desktop\CPTS 122\CPTS122_LAB7_DYLAN_TARLYN\Debug\CPTS122_LAB7_DYLAN_TARLYN.exe
